@@ -1,0 +1,30 @@
+body {
+  font-family: "굴림";
+  font-weight: bold;
+}
+
+ul {
+  font-size: 44px;
+  color: red;
+  border: 3px dotted red;
+  border-width: thin;
+  list-style-type: square;
+  padding: 50px;
+  width: 450px;
+  height: 200px;
+
+  display: inline-flex;
+  }
+
+#listSelcet{
+  margin-bottom: 0px;
+}
+#musicSelect{
+  margin-top: 0px;
+}
+
+#sport,#music{
+  font-size: 28px;
+  color: blue;
+  list-style-type: disc;
+}
